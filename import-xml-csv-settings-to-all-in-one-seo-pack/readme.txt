@@ -4,7 +4,7 @@ Tags: seo, import seo, search engine optimization, import search engine optimiza
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 4.1.0
-Tested up to: 6.9
+Tested up to: 7.0
 Stable tag: 2.0.0
 
 Drag & drop to import from any CSV, Excel, XML, or Google Sheets file into All In One SEO's titles, meta descriptions, focus keywords, schema settings and more.
